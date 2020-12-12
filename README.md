@@ -1,3 +1,3 @@
-#Kokoa clone 2020 bg
+# Kokoa clone 2020 bg
 
 html css 정말 좋아
